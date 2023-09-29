@@ -11,5 +11,5 @@ RUN dnf install -y \
     gcc-c++ \
     make \
     openssl-devel \
-    python3-devel \
-    python3-wheel
+    python39-devel \
+    python39-wheel
